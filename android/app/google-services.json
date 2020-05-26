@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "207164653946",
+    "firebase_url": "https://text-83f1a.firebaseio.com",
+    "project_id": "text-83f1a",
+    "storage_bucket": "text-83f1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207164653946:android:a042ed9d700290a68956c3",
+        "android_client_info": {
+          "package_name": "com.engeniuspark.text"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "207164653946-1lp0s4c4a6d5o5kf8ds42s54smglkoom.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM4jBk2JelxfBY_DvE-OGv4_nVB_LO-98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "207164653946-1lp0s4c4a6d5o5kf8ds42s54smglkoom.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
